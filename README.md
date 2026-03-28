@@ -1,16 +1,19 @@
-## Hi there 👋
+## Since 2010, I'm assisting companies, agencies, and individuals in crafting web experiences that truly reflect their identity<br><br>Fields:
 
-<!--
-**pryspil/pryspil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Web production` `Design` `Frontend` `Special projects` `Creative` `Interactive` `Motion`<br>`Freelance` `Collaboration` `Volunteering`
 
-Here are some ideas to get you started:
+## Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`HTML` `CSS` `JS / TS` `Static websites` `Jamstack` `Headless CMS` `React, Next.js` `Vue, Nuxt` `Svelte (Kit)`<br>`Figma` `Adobe CC` `After Effects`
+
+## Portfolio:
+
+[lisovskiy.work](https://lisovskiy.work)
+
+## Contacts:
+
+[Email](mailto:yo@lisovskiy.work)
+
+## Social:
+
+[Linkedin](https://linkedin.com/in/lsvs/)<br>[Medium](http://medium.com/@lisovskiy)<br>[Behance](https://be.net/lsvs)<br>[Dribbble](http://dribbble.com/lsvs)<br>[Instagram](http://instagram.com/lisovskiy.work)<br>[Facebook](http://facebook.com/lsvsj)<br>[Vimeo](http://vimeo.com/af)
