@@ -1,4 +1,6 @@
-## Since 2010, I'm assisting companies, agencies, and individuals in crafting web experiences that truly reflect their identity<br><br>Fields:
+`Pryšpił` (Belarusian, Cyrillic: прышпіл) — a witty jab or playful ironic remark; a small humorous poke.
+
+## [Siarhiej Lisoŭski’s](https://github.com/lsvs) alter ego<br><br>Since 2010, I'm assisting companies, agencies, and individuals in crafting web experiences that truly reflect their identity<br><br>Fields:
 
 `Web production` `Design` `Frontend` `Special projects` `Creative` `Interactive` `Motion`<br>`Freelance` `Collaboration` `Volunteering`
 
